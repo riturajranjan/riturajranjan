@@ -135,26 +135,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=riturajranjan&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/riturajranjan/riturajranjan/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 # 💼 Currently Working On
 
 - 🚀 AI Applications
