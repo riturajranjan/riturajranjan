@@ -11,9 +11,9 @@ Frontend Engineer | React.js | Next.js | TypeScript
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=riturajranjan&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/riturajranjan?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/riturajranjan?label=Stars&style=flat&color=yellow" />
 </p>
 
 ---
