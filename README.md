@@ -172,7 +172,7 @@ Next.js • TypeScript • Tailwind CSS • Framer Motion
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajranjan&theme=tokyo-night&hide_border=true"/>
+<img src="[https://github-readme-activity-graph.vercel.app/graph?username=riturajranjan&theme=tokyo-night&hide_border=true](https://streak-stats.demolab.com/?user=riturajranjan&theme=tokyonight&hide_border=true)"/>
 
 </p>
 
